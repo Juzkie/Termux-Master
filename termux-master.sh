@@ -19,7 +19,7 @@ apt install mtools -y
 apt install nano -y
 apt install ngrok -y
 apt install coreutils -y
-apt install termux-api -y
+apt install termux-api
 apt install cmatrix -y
 apt install w3m -y
 apt install fish -y
@@ -35,5 +35,6 @@ pkg install unstable-repo -y
 pkg install root-repo -y
 apt install tor -y
 apt install sl -y
+sl
 
 print"Installed √"
