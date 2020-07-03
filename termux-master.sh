@@ -10,7 +10,7 @@ apt install python2 -y
 apt install python3 -y
 apt install curl
 apt install php -y
-apt install ruby -
+apt install ruby -y
 apt install perl -y
 apt install pip -y
 apt install pip3 -y
@@ -37,4 +37,4 @@ apt install tor -y
 apt install sl -y
 sl
 
-print"Installed √"
+print "\e[93m Installed \e[0m\n"
